@@ -67,7 +67,8 @@ ColorPaletteVault/       <-- Main top-level root folder
     └── WebMasterRole.java    <-- Role Module Asset
 
 ##Project Demonstration
-https://github.com/user-attachments/assets/bb885073-fd66-40b0-9dad-030386a1e73c
+<video src="https://github.com/user-attachments/assets/bb885073-fd66-40b0-9dad-030386a1e73c" controls width="100%"></video>
+
 
 
 
