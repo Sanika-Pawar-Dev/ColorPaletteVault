@@ -65,3 +65,9 @@ ColorPaletteVault/       <-- Main top-level root folder
     ├── SecurityEngine.java   <-- Hashing and Input Validation Mechanics
     ├── UxArchitectRole.java  <-- Role Module Asset
     └── WebMasterRole.java    <-- Role Module Asset
+
+##Project Demonstration
+https://github.com/user-attachments/assets/bb885073-fd66-40b0-9dad-030386a1e73c
+
+
+
