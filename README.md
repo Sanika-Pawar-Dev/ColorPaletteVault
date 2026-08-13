@@ -66,5 +66,5 @@ ColorPaletteVault/       <-- Main top-level root folder
     ├── UxArchitectRole.java  <-- Role Module Asset
     └── WebMasterRole.java    <-- Role Module Asset
 
-
+https://github.com/user-attachments/assets/4939798c-8b9f-44aa-9ca3-9ba39660bd71
 
