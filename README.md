@@ -66,6 +66,5 @@ ColorPaletteVault/       <-- Main top-level root folder
     ├── UxArchitectRole.java  <-- Role Module Asset
     └── WebMasterRole.java    <-- Role Module Asset
 
-##Project Demonstration
-https://github.com/Sanika-Pawar-Dev/ColorPaletteVault/blob/main/Colorex-Color%20Palette%20Vault%20Studio(485).mp4
+
 
